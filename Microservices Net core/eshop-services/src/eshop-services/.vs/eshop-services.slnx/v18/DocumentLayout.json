@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos\\9NO\\Microservices Net core\\eshop-services\\src\\eshop-services\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\proyectos\\9no\\microservices net core\\eshop-services\\src\\eshop-services\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC5A32-CDDC-EE43-9CA6-483EA2BFBE99}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\proyectos\\9no\\microservices net core\\eshop-services\\src\\eshop-services\\services\\catalog\\catalog.api\\models\\products\\getproducts\\getproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FC5A32-CDDC-EE43-9CA6-483EA2BFBE99}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\models\\products\\getproducts\\getproductsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33FC5A32-CDDC-EE43-9CA6-483EA2BFBE99}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|c:\\proyectos\\9no\\microservices net core\\eshop-services\\src\\eshop-services\\services\\catalog\\catalog.api\\models\\products\\getproducts\\getproductsendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FC5A32-CDDC-EE43-9CA6-483EA2BFBE99}|Services\\Catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:services\\catalog\\catalog.api\\models\\products\\getproducts\\getproductsendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Proyectos\\9NO\\Microservices Net core\\eshop-services\\src\\eshop-services\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Proyectos\\9NO\\Microservices Net core\\eshop-services\\src\\eshop-services\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-06-02T01:45:22.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetProductsEndPoint.cs",
+              "DocumentMoniker": "C:\\Proyectos\\9NO\\Microservices Net core\\eshop-services\\src\\eshop-services\\Services\\Catalog\\Catalog.API\\Models\\Products\\GetProducts\\GetProductsEndPoint.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Models\\Products\\GetProducts\\GetProductsEndPoint.cs",
+              "ToolTip": "C:\\Proyectos\\9NO\\Microservices Net core\\eshop-services\\src\\eshop-services\\Services\\Catalog\\Catalog.API\\Models\\Products\\GetProducts\\GetProductsEndPoint.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Models\\Products\\GetProducts\\GetProductsEndPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T01:25:57.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetProductsQuery.cs",
+              "DocumentMoniker": "C:\\Proyectos\\9NO\\Microservices Net core\\eshop-services\\src\\eshop-services\\Services\\Catalog\\Catalog.API\\Models\\Products\\GetProducts\\GetProductsQuery.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Catalog.API\\Models\\Products\\GetProducts\\GetProductsQuery.cs",
+              "ToolTip": "C:\\Proyectos\\9NO\\Microservices Net core\\eshop-services\\src\\eshop-services\\Services\\Catalog\\Catalog.API\\Models\\Products\\GetProducts\\GetProductsQuery.cs",
+              "RelativeToolTip": "Services\\Catalog\\Catalog.API\\Models\\Products\\GetProducts\\GetProductsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T01:25:54.54Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

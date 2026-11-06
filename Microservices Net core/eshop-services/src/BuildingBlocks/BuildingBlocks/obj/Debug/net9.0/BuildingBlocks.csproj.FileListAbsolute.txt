@@ -1,0 +1,12 @@
+C:\Proyectos\9NO\Microservices Net core\eshop-services\src\BuildingBlocks\BuildingBlocks\bin\Debug\net9.0\BuildingBlocks.deps.json
+C:\Proyectos\9NO\Microservices Net core\eshop-services\src\BuildingBlocks\BuildingBlocks\bin\Debug\net9.0\BuildingBlocks.dll
+C:\Proyectos\9NO\Microservices Net core\eshop-services\src\BuildingBlocks\BuildingBlocks\bin\Debug\net9.0\BuildingBlocks.pdb
+C:\Proyectos\9NO\Microservices Net core\eshop-services\src\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.csproj.AssemblyReference.cache
+C:\Proyectos\9NO\Microservices Net core\eshop-services\src\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\9NO\Microservices Net core\eshop-services\src\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.AssemblyInfoInputs.cache
+C:\Proyectos\9NO\Microservices Net core\eshop-services\src\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.AssemblyInfo.cs
+C:\Proyectos\9NO\Microservices Net core\eshop-services\src\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.csproj.CoreCompileInputs.cache
+C:\Proyectos\9NO\Microservices Net core\eshop-services\src\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.dll
+C:\Proyectos\9NO\Microservices Net core\eshop-services\src\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\refint\BuildingBlocks.dll
+C:\Proyectos\9NO\Microservices Net core\eshop-services\src\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.pdb
+C:\Proyectos\9NO\Microservices Net core\eshop-services\src\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\ref\BuildingBlocks.dll

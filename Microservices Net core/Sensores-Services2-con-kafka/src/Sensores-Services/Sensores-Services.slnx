@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/BuildingBlocks/">
+    <Project Path="BuildingBlocks/BuildingBlocks/BuildingBlocks.csproj" Id="5f2097a6-3476-4aec-b9ed-a58785a1529e" />
+  </Folder>
+  <Folder Name="/Services/" />
+  <Folder Name="/Services/Catalog/">
+    <Project Path="Services/Catalog/Sensores.Api/Sensores.Api.csproj" Id="425783cd-9aa4-4303-ac5e-650adf5068e0" />
+  </Folder>
+  <Project Path="docker-compose.dcproj">
+    <Build />
+  </Project>
+</Solution>

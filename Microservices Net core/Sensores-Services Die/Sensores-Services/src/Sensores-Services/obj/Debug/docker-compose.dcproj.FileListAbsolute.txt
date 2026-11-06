@@ -1,0 +1,280 @@
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\Sensores.Api.deps.json
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\Sensores.Api.runtimeconfig.json
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\appsettings.Development.json
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\appsettings.json
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\Sensores.Api.staticwebassets.endpoints.json
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\Sensores.Api.exe
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\Sensores.Api.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\MediatR.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\Marten.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\Carter.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\BuildingBlocks.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\MediatR.Contracts.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\Mapster.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\JasperFx.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\JasperFx.Events.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\Weasel.Postgresql.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\Weasel.Core.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\Npgsql.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\Polly.Core.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\Newtonsoft.Json.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\JasperFx.RuntimeCompiler.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\FastExpressionCompiler.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\FluentValidation.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\Mapster.Core.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\Spectre.Console.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\Spectre.Console.Ansi.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\DistributedLock.Postgres.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\NetTopologySuite.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\DistributedLock.Core.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\Sensores.Api.pdb
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\BuildingBlocks.pdb
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\de\Microsoft.CodeAnalysis.resources.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\es\Microsoft.CodeAnalysis.resources.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\it\Microsoft.CodeAnalysis.resources.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\obj\Debug\docker-c.35A3FFBA.Up2Date
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\appsettings.Development.json
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\appsettings.json
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\Sensores.Api.staticwebassets.endpoints.json
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\Sensores.Api.deps.json
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\Sensores.Api.runtimeconfig.json
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\Sensores.Api.exe
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\Sensores.Api.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\MediatR.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\Marten.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\Carter.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\BuildingBlocks.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\MediatR.Contracts.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\JasperFx.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\JasperFx.Events.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\Weasel.Postgresql.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\Weasel.Core.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\Npgsql.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\Polly.Core.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\Newtonsoft.Json.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\JasperFx.RuntimeCompiler.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\FastExpressionCompiler.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\FluentValidation.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\Spectre.Console.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\Spectre.Console.Ansi.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\DistributedLock.Postgres.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\NetTopologySuite.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\DistributedLock.Core.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\Sensores.Api.pdb
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\BuildingBlocks.pdb
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\de\Microsoft.CodeAnalysis.resources.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\es\Microsoft.CodeAnalysis.resources.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\it\Microsoft.CodeAnalysis.resources.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Sensores-Services\src\Sensores-Services\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Sensores-Services\src\Sensores-Services\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Sensores-Services\src\Sensores-Services\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Sensores-Services\src\Sensores-Services\obj\Debug\docker-c.35A3FFBA.Up2Date
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\appsettings.Development.json
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Sensores.Api.staticwebassets.endpoints.json
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Sensores.Api.deps.json
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Sensores.Api.runtimeconfig.json
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\appsettings.json
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Sensores.Api.exe
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Sensores.Api.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\MediatR.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Marten.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Confluent.Kafka.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Carter.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\BuildingBlocks.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\MediatR.Contracts.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\JasperFx.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\JasperFx.Events.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Weasel.Postgresql.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Weasel.Core.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Npgsql.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Polly.Core.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\JasperFx.RuntimeCompiler.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\FastExpressionCompiler.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\FluentValidation.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Spectre.Console.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Spectre.Console.Ansi.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\DistributedLock.Postgres.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\NetTopologySuite.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\DistributedLock.Core.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Sensores.Api.pdb
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\BuildingBlocks.pdb
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\obj\Debug\docker-c.35A3FFBA.Up2Date
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Sensores.Api.deps.json
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Sensores.Api.runtimeconfig.json
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\appsettings.Development.json
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\appsettings.json
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Sensores.Api.staticwebassets.endpoints.json
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Sensores.Api.exe
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Sensores.Api.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\MediatR.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Marten.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Confluent.Kafka.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Carter.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\BuildingBlocks.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\MediatR.Contracts.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\JasperFx.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\JasperFx.Events.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Weasel.Postgresql.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Weasel.Core.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Npgsql.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Polly.Core.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Newtonsoft.Json.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\JasperFx.RuntimeCompiler.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\FastExpressionCompiler.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\FluentValidation.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Spectre.Console.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Spectre.Console.Ansi.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\DistributedLock.Postgres.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\NetTopologySuite.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\DistributedLock.Core.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\Sensores.Api.pdb
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\BuildingBlocks.pdb
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\de\Microsoft.CodeAnalysis.resources.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\es\Microsoft.CodeAnalysis.resources.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\it\Microsoft.CodeAnalysis.resources.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\obj\Debug\docker-c.35A3FFBA.Up2Date

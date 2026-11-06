@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|c:\\proyectos\\9no\\microservices net core\\sensores-services die\\sensores-services\\src\\sensores-services\\services\\catalog\\sensores.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|solutionrelative:services\\catalog\\sensores.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|c:\\proyectos\\9no\\microservices net core\\sensores-services die\\sensores-services\\src\\sensores-services\\services\\catalog\\sensores.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|solutionrelative:services\\catalog\\sensores.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|c:\\proyectos\\9no\\microservices net core\\sensores-services die\\sensores-services\\src\\sensores-services\\services\\catalog\\sensores.api\\services\\ikafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|solutionrelative:services\\catalog\\sensores.api\\services\\ikafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|c:\\proyectos\\9no\\microservices net core\\sensores-services die\\sensores-services\\src\\sensores-services\\services\\catalog\\sensores.api\\models\\datos\\createdata\\createdatacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|solutionrelative:services\\catalog\\sensores.api\\models\\datos\\createdata\\createdatacommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|c:\\proyectos\\9no\\microservices net core\\sensores-services die\\sensores-services\\src\\sensores-services\\services\\catalog\\sensores.api\\services\\kafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|solutionrelative:services\\catalog\\sensores.api\\services\\kafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|c:\\proyectos\\9no\\microservices net core\\sensores-services die\\sensores-services\\src\\sensores-services\\services\\catalog\\sensores.api\\consumers\\sensordataconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|solutionrelative:services\\catalog\\sensores.api\\consumers\\sensordataconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|c:\\proyectos\\9no\\microservices net core\\sensores-services die\\sensores-services\\src\\sensores-services\\services\\catalog\\sensores.api\\models\\datos\\getdata\\getdataqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|solutionrelative:services\\catalog\\sensores.api\\models\\datos\\getdata\\getdataqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|c:\\proyectos\\9no\\microservices net core\\sensores-services die\\sensores-services\\src\\sensores-services\\services\\catalog\\sensores.api\\models\\datos\\getdata\\getdataendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|solutionrelative:services\\catalog\\sensores.api\\models\\datos\\getdata\\getdataendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|c:\\proyectos\\9no\\microservices net core\\sensores-services die\\sensores-services\\src\\sensores-services\\services\\catalog\\sensores.api\\models\\datos\\filterdata\\filterdataendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|solutionrelative:services\\catalog\\sensores.api\\models\\datos\\filterdata\\filterdataendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|c:\\proyectos\\9no\\microservices net core\\sensores-services die\\sensores-services\\src\\sensores-services\\services\\catalog\\sensores.api\\models\\datos\\filterdata\\filterdataqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|solutionrelative:services\\catalog\\sensores.api\\models\\datos\\filterdata\\filterdataqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|c:\\proyectos\\9no\\microservices net core\\sensores-services die\\sensores-services\\src\\sensores-services\\services\\catalog\\sensores.api\\models\\datos\\createdata\\createdataendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|solutionrelative:services\\catalog\\sensores.api\\models\\datos\\createdata\\createdataendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|c:\\proyectos\\9no\\microservices net core\\sensores-services die\\sensores-services\\src\\sensores-services\\services\\catalog\\sensores.api\\models\\dashboard\\summary\\dashboardsummaryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|solutionrelative:services\\catalog\\sensores.api\\models\\dashboard\\summary\\dashboardsummaryqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|c:\\proyectos\\9no\\microservices net core\\sensores-services die\\sensores-services\\src\\sensores-services\\services\\catalog\\sensores.api\\models\\dashboard\\summary\\dashboardsummaryendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|solutionrelative:services\\catalog\\sensores.api\\models\\dashboard\\summary\\dashboardsummaryendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|c:\\proyectos\\9no\\microservices net core\\sensores-services die\\sensores-services\\src\\sensores-services\\services\\catalog\\sensores.api\\models\\dashboard\\charts\\dashboardchartsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|solutionrelative:services\\catalog\\sensores.api\\models\\dashboard\\charts\\dashboardchartsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|c:\\proyectos\\9no\\microservices net core\\sensores-services die\\sensores-services\\src\\sensores-services\\services\\catalog\\sensores.api\\models\\dashboard\\charts\\dashboardchartsendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|solutionrelative:services\\catalog\\sensores.api\\models\\dashboard\\charts\\dashboardchartsendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|c:\\proyectos\\9no\\microservices net core\\sensores-services die\\sensores-services\\src\\sensores-services\\services\\catalog\\sensores.api\\models\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|solutionrelative:services\\catalog\\sensores.api\\models\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|c:\\proyectos\\9no\\microservices net core\\sensores-services die\\sensores-services\\src\\sensores-services\\services\\catalog\\sensores.api\\utils\\iphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|solutionrelative:services\\catalog\\sensores.api\\utils\\iphelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|c:\\proyectos\\9no\\microservices net core\\sensores-services die\\sensores-services\\src\\sensores-services\\services\\catalog\\sensores.api\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|solutionrelative:services\\catalog\\sensores.api\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\proyectos\\9no\\microservices net core\\sensores-services die\\sensores-services\\src\\sensores-services\\docker-compose.override.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Insiders\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AgIAAOgBAAAAAAAAAADwv/IBAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-06-19T20:24:58.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SensorDataConsumerService.cs",
+              "DocumentMoniker": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Consumers\\SensorDataConsumerService.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Sensores.Api\\Consumers\\SensorDataConsumerService.cs",
+              "ToolTip": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Consumers\\SensorDataConsumerService.cs",
+              "RelativeToolTip": "Services\\Catalog\\Sensores.Api\\Consumers\\SensorDataConsumerService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T16:01:16.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Sensores.Api\\Program.cs",
+              "ToolTip": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Program.cs",
+              "RelativeToolTip": "Services\\Catalog\\Sensores.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T21:10:43.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateDataCommandHandler.cs",
+              "DocumentMoniker": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Models\\Datos\\CreateData\\CreateDataCommandHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Sensores.Api\\Models\\Datos\\CreateData\\CreateDataCommandHandler.cs",
+              "ToolTip": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Models\\Datos\\CreateData\\CreateDataCommandHandler.cs",
+              "RelativeToolTip": "Services\\Catalog\\Sensores.Api\\Models\\Datos\\CreateData\\CreateDataCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T16:25:00.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IKafkaProducerService.cs",
+              "DocumentMoniker": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Services\\IKafkaProducerService.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Sensores.Api\\Services\\IKafkaProducerService.cs",
+              "ToolTip": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Services\\IKafkaProducerService.cs",
+              "RelativeToolTip": "Services\\Catalog\\Sensores.Api\\Services\\IKafkaProducerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T15:56:39.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KafkaProducerService.cs",
+              "DocumentMoniker": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Services\\KafkaProducerService.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Sensores.Api\\Services\\KafkaProducerService.cs",
+              "ToolTip": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Services\\KafkaProducerService.cs",
+              "RelativeToolTip": "Services\\Catalog\\Sensores.Api\\Services\\KafkaProducerService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T15:58:58.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FilterDataEndpoint.cs",
+              "DocumentMoniker": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Models\\Datos\\FilterData\\FilterDataEndpoint.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Sensores.Api\\Models\\Datos\\FilterData\\FilterDataEndpoint.cs",
+              "ToolTip": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Models\\Datos\\FilterData\\FilterDataEndpoint.cs",
+              "RelativeToolTip": "Services\\Catalog\\Sensores.Api\\Models\\Datos\\FilterData\\FilterDataEndpoint.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T02:12:49.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetDataQueryHandler.cs",
+              "DocumentMoniker": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Models\\Datos\\GetData\\GetDataQueryHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Sensores.Api\\Models\\Datos\\GetData\\GetDataQueryHandler.cs",
+              "ToolTip": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Models\\Datos\\GetData\\GetDataQueryHandler.cs",
+              "RelativeToolTip": "Services\\Catalog\\Sensores.Api\\Models\\Datos\\GetData\\GetDataQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBQwAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T20:07:37.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Sensores.Api\\appsettings.json",
+              "ToolTip": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\appsettings.json",
+              "RelativeToolTip": "Services\\Catalog\\Sensores.Api\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-18T02:02:30.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FilterDataQueryHandler.cs",
+              "DocumentMoniker": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Models\\Datos\\FilterData\\FilterDataQueryHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Sensores.Api\\Models\\Datos\\FilterData\\FilterDataQueryHandler.cs",
+              "ToolTip": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Models\\Datos\\FilterData\\FilterDataQueryHandler.cs",
+              "RelativeToolTip": "Services\\Catalog\\Sensores.Api\\Models\\Datos\\FilterData\\FilterDataQueryHandler.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAiwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T02:13:02.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateDataEndpoint.cs",
+              "DocumentMoniker": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Models\\Datos\\CreateData\\CreateDataEndpoint.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Sensores.Api\\Models\\Datos\\CreateData\\CreateDataEndpoint.cs",
+              "ToolTip": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Models\\Datos\\CreateData\\CreateDataEndpoint.cs",
+              "RelativeToolTip": "Services\\Catalog\\Sensores.Api\\Models\\Datos\\CreateData\\CreateDataEndpoint.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwEMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T16:25:21.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetDataEndPoint.cs",
+              "DocumentMoniker": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Models\\Datos\\GetData\\GetDataEndPoint.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Sensores.Api\\Models\\Datos\\GetData\\GetDataEndPoint.cs",
+              "ToolTip": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Models\\Datos\\GetData\\GetDataEndPoint.cs",
+              "RelativeToolTip": "Services\\Catalog\\Sensores.Api\\Models\\Datos\\GetData\\GetDataEndPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-30T20:07:26.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DashboardSummaryQueryHandler.cs",
+              "DocumentMoniker": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Models\\Dashboard\\Summary\\DashboardSummaryQueryHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Sensores.Api\\Models\\Dashboard\\Summary\\DashboardSummaryQueryHandler.cs",
+              "ToolTip": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Models\\Dashboard\\Summary\\DashboardSummaryQueryHandler.cs",
+              "RelativeToolTip": "Services\\Catalog\\Sensores.Api\\Models\\Dashboard\\Summary\\DashboardSummaryQueryHandler.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwCsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T02:14:12.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DashboardSummaryEndpoint.cs",
+              "DocumentMoniker": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Models\\Dashboard\\Summary\\DashboardSummaryEndpoint.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Sensores.Api\\Models\\Dashboard\\Summary\\DashboardSummaryEndpoint.cs",
+              "ToolTip": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Models\\Dashboard\\Summary\\DashboardSummaryEndpoint.cs",
+              "RelativeToolTip": "Services\\Catalog\\Sensores.Api\\Models\\Dashboard\\Summary\\DashboardSummaryEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T02:13:52.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DashboardChartsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Models\\Dashboard\\Charts\\DashboardChartsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Sensores.Api\\Models\\Dashboard\\Charts\\DashboardChartsQueryHandler.cs",
+              "ToolTip": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Models\\Dashboard\\Charts\\DashboardChartsQueryHandler.cs",
+              "RelativeToolTip": "Services\\Catalog\\Sensores.Api\\Models\\Dashboard\\Charts\\DashboardChartsQueryHandler.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAiwGYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T02:14:54.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DashboardChartsEndpoint.cs",
+              "DocumentMoniker": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Models\\Dashboard\\Charts\\DashboardChartsEndpoint.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Sensores.Api\\Models\\Dashboard\\Charts\\DashboardChartsEndpoint.cs",
+              "ToolTip": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Models\\Dashboard\\Charts\\DashboardChartsEndpoint.cs",
+              "RelativeToolTip": "Services\\Catalog\\Sensores.Api\\Models\\Dashboard\\Charts\\DashboardChartsEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T02:14:44.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SensorData.cs",
+              "DocumentMoniker": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Models\\SensorData.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Sensores.Api\\Models\\SensorData.cs",
+              "ToolTip": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Models\\SensorData.cs",
+              "RelativeToolTip": "Services\\Catalog\\Sensores.Api\\Models\\SensorData.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T00:56:07.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IpHelper.cs",
+              "DocumentMoniker": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Utils\\IpHelper.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Sensores.Api\\Utils\\IpHelper.cs",
+              "ToolTip": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Utils\\IpHelper.cs",
+              "RelativeToolTip": "Services\\Catalog\\Sensores.Api\\Utils\\IpHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T02:08:56.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Sensores.Api\\GlobalUsing.cs",
+              "ToolTip": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\GlobalUsing.cs",
+              "RelativeToolTip": "Services\\Catalog\\Sensores.Api\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T02:18:11.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services Die\\Sensores-Services\\src\\Sensores-Services\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-06-14T01:12:10.139Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services2-con-kafka\\src\\Sensores-Services\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|c:\\proyectos\\9no\\microservices net core\\sensores-services2-con-kafka\\src\\sensores-services\\services\\catalog\\sensores.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|solutionrelative:services\\catalog\\sensores.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|c:\\proyectos\\9no\\microservices net core\\sensores-services2-con-kafka\\src\\sensores-services\\services\\catalog\\sensores.api\\services\\kafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|solutionrelative:services\\catalog\\sensores.api\\services\\kafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|c:\\proyectos\\9no\\microservices net core\\sensores-services2-con-kafka\\src\\sensores-services\\services\\catalog\\sensores.api\\models\\datos\\sendsensorendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|solutionrelative:services\\catalog\\sensores.api\\models\\datos\\sendsensorendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|c:\\proyectos\\9no\\microservices net core\\sensores-services2-con-kafka\\src\\sensores-services\\services\\catalog\\sensores.api\\services\\ikafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|solutionrelative:services\\catalog\\sensores.api\\services\\ikafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|c:\\proyectos\\9no\\microservices net core\\sensores-services2-con-kafka\\src\\sensores-services\\services\\catalog\\sensores.api\\consumers\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425783CD-9AA4-4303-AC5E-650ADF5068E0}|Services\\Catalog\\Sensores.Api\\Sensores.Api.csproj|solutionrelative:services\\catalog\\sensores.api\\consumers\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\proyectos\\9no\\microservices net core\\sensores-services2-con-kafka\\src\\sensores-services\\docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services2-con-kafka\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Sensores.Api\\appsettings.json",
+              "ToolTip": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services2-con-kafka\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\appsettings.json",
+              "RelativeToolTip": "Services\\Catalog\\Sensores.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-19T22:19:26.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SendSensorEndpoint.cs",
+              "DocumentMoniker": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services2-con-kafka\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Models\\Datos\\SendSensorEndpoint.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Sensores.Api\\Models\\Datos\\SendSensorEndpoint.cs",
+              "ToolTip": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services2-con-kafka\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Models\\Datos\\SendSensorEndpoint.cs",
+              "RelativeToolTip": "Services\\Catalog\\Sensores.Api\\Models\\Datos\\SendSensorEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T22:03:27.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KafkaConsumerService.cs",
+              "DocumentMoniker": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services2-con-kafka\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Consumers\\KafkaConsumerService.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Sensores.Api\\Consumers\\KafkaConsumerService.cs",
+              "ToolTip": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services2-con-kafka\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Consumers\\KafkaConsumerService.cs",
+              "RelativeToolTip": "Services\\Catalog\\Sensores.Api\\Consumers\\KafkaConsumerService.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T21:14:41.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services2-con-kafka\\src\\Sensores-Services\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services2-con-kafka\\src\\Sensores-Services\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-06-19T21:12:46.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KafkaProducerService.cs",
+              "DocumentMoniker": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services2-con-kafka\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Services\\KafkaProducerService.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Sensores.Api\\Services\\KafkaProducerService.cs",
+              "ToolTip": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services2-con-kafka\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Services\\KafkaProducerService.cs",
+              "RelativeToolTip": "Services\\Catalog\\Sensores.Api\\Services\\KafkaProducerService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAsAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T21:08:24.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IKafkaProducerService.cs",
+              "DocumentMoniker": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services2-con-kafka\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Services\\IKafkaProducerService.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\Sensores.Api\\Services\\IKafkaProducerService.cs",
+              "ToolTip": "C:\\Proyectos\\9NO\\Microservices Net core\\Sensores-Services2-con-kafka\\src\\Sensores-Services\\Services\\Catalog\\Sensores.Api\\Services\\IKafkaProducerService.cs",
+              "RelativeToolTip": "Services\\Catalog\\Sensores.Api\\Services\\IKafkaProducerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T21:08:23.31Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

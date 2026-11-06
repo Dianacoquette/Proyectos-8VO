@@ -1,0 +1,32 @@
+version: '3.4'
+
+services:
+  sensoresdb:
+    container_name: sensoresdb
+    image: postgres:15
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres 
+      POSTGRES_DB: SensoresDb
+    restart: always
+    ports:
+      - "5434:5432"
+    volumes:
+      - postgres_sensores:/var/lib/postgresql/data/
+
+  sensores.api:
+    container_name: sensoresapi
+    build:
+      context: .
+      dockerfile: Services/Catalog/Sensores.Api/Dockerfile
+    environment:
+      HOST_IP: 10.84.147.137
+      ASPNETCORE_ENVIRONMENT: Development
+      ConnectionStrings__SensoresDb: Host=sensoresdb;Port=5432;Database=SensoresDb;Username=postgres;Password=postgres
+    ports:
+      - "8081:8080"
+    depends_on:
+      - sensoresdb
+
+volumes:
+  postgres_sensores:

@@ -1,0 +1,48 @@
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\bin\Debug\net9.0\BuildingBlocks.deps.json
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\bin\Debug\net9.0\BuildingBlocks.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\bin\Debug\net9.0\BuildingBlocks.pdb
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.csproj.AssemblyReference.cache
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.AssemblyInfoInputs.cache
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.AssemblyInfo.cs
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.csproj.CoreCompileInputs.cache
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\refint\BuildingBlocks.dll
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.pdb
+C:\Microservices NetCore\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\ref\BuildingBlocks.dll
+C:\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\bin\Debug\net9.0\BuildingBlocks.deps.json
+C:\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\bin\Debug\net9.0\BuildingBlocks.dll
+C:\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\bin\Debug\net9.0\BuildingBlocks.pdb
+C:\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.csproj.AssemblyReference.cache
+C:\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.AssemblyInfoInputs.cache
+C:\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.AssemblyInfo.cs
+C:\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.csproj.CoreCompileInputs.cache
+C:\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.dll
+C:\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\refint\BuildingBlocks.dll
+C:\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.pdb
+C:\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\ref\BuildingBlocks.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\bin\Debug\net9.0\BuildingBlocks.deps.json
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\bin\Debug\net9.0\BuildingBlocks.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\bin\Debug\net9.0\BuildingBlocks.pdb
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.csproj.AssemblyReference.cache
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.AssemblyInfoInputs.cache
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.AssemblyInfo.cs
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.csproj.CoreCompileInputs.cache
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\refint\BuildingBlocks.dll
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.pdb
+C:\Users\cesar\OneDrive\Desktop\Sensores-Services Die\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\ref\BuildingBlocks.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\bin\Debug\net9.0\BuildingBlocks.deps.json
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\bin\Debug\net9.0\BuildingBlocks.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\bin\Debug\net9.0\BuildingBlocks.pdb
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.csproj.AssemblyReference.cache
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.AssemblyInfoInputs.cache
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.AssemblyInfo.cs
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.csproj.CoreCompileInputs.cache
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\refint\BuildingBlocks.dll
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\BuildingBlocks.pdb
+C:\Proyectos\9NO\Microservices Net core\Sensores-Services Die\Sensores-Services\src\Sensores-Services\BuildingBlocks\BuildingBlocks\obj\Debug\net9.0\ref\BuildingBlocks.dll
